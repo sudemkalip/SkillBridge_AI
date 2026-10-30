@@ -99,7 +99,7 @@ These findings help evaluate the suitability of the datasets for the proposed Sk
 
 5. Repository Contents
 
-* SkillBridge_AI_Homework1_EDA.ipynb: Python code for data exploration, preprocessing, and visualizations.
+* SkillBridge_AI.ipynb: Python code for data exploration, preprocessing, and visualizations.
 * eda_results/: EDA charts generated during the analysis.
 * report/: Homework 1 project report.
 * README.md: Project documentation.
@@ -107,7 +107,7 @@ These findings help evaluate the suitability of the datasets for the proposed Sk
 6. How to Run the EDA
 
 1. Download the O*NET and Coursera datasets from the sources listed above.
-2. Open SkillBridge_AI_Homework1_EDA.ipynb in Google Colab.
+2. Open SkillBridge_AI.ipynb in Google Colab.
 3. Upload the required Excel files to the /content/ directory.
 4. Run the notebook cells in order.
 5. Review the generated statistics and visualizations.
