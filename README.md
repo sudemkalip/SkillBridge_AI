@@ -54,7 +54,7 @@ Source: https://huggingface.co/datasets/azrai99/coursera-course-dataset
 
 File analyzed:
 
-* coursera_course_2024.xlsx
+* coursera_course_2024.csv
 
 This third-party dataset contains course titles, descriptions, skills, difficulty levels, and other course-related information.
 
@@ -108,7 +108,7 @@ These findings help evaluate the suitability of the datasets for the proposed Sk
 
 1. Download the O*NET and Coursera datasets from the sources listed above.
 2. Open SkillBridge_AI.ipynb in Google Colab.
-3. Upload the required Excel files to the /content/ directory.
+3. Upload the required Excel and CSV files to the /content/ directory.
 4. Run the notebook cells in order.
 5. Review the generated statistics and visualizations.
 
